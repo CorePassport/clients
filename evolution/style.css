@@ -1,5 +1,7 @@
 :root {
-  --cp-main-bg-color: coral;
-  --cp-main-txt-color: blue;
-  --cp-main-link-color: red;
+  --main-color: #FB7840;
+  --main-color-disabled: #d6c5b9;
+  --sub-main-color: #B36041;
+  --sub-main-color-hover: #c5643f;
+  --second-color: #FF834E;
 }
