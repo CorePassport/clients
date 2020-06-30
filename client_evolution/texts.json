@@ -1,14 +1,7 @@
 {
   "en": {
-    "title": "Welcome to <br \/> <strong>Evolution community<\/strong>",
-    "description": "The Core Group has developed a software platform designed to support 21st-century communications, data management, identification, social interaction, and transactional solutions. The Core Group has built a global, decentralized, Blockchain based, ecosystem that is immediately available but is also fully capable of evolving to cater to the world of the future.",
-    "learnMoreLink": "https:\/\/en.wikipedia.org\/wiki\/Evolution",
-    "learnMoreText": "About Evolution"
-  },
-  "es": {
-    "title": "Bienvenido a <br \/> <strong>Evolution community<\/strong>",
-    "description": "El Core Group ha desarrollado una plataforma de software diseñada para soportar comunicaciones del siglo XXI, gestión de datos, identificación, interacción social y soluciones transaccionales. El Core Group ha creado un ecosistema global, descentralizado, basado en Blockchain, que está disponible de inmediato pero que también es totalmente capaz de evolucionar para atender el mundo del futuro.",
-    "learnMoreLink": "https:\/\/es.wikipedia.org\/wiki\/Evolution",
-    "learnMoreText": "Acerca de Evolution"
+    "title": "Welcome to<br \/><strong>Evolution community<\/strong>",
+    "description": "Evolution Community is a Hispanic Network of Entrepreneurs and Individuals that supports their members in different areas like selling their own products on their own member’s market places, teaching new technologies like Blockchain and trading of currencies and commodities, etc.",
+    "learnMoreLink": "https:\/\/evolution.community"
   }
 }

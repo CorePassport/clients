@@ -1,14 +1,12 @@
 {
   "en": {
-    "title": "Welcome to <br \/> <strong>MMUN WeConnectU<\/strong>",
+    "title": "Welcome to<br \/><strong>MMUN WeConnectU!<\/strong>",
     "description": "Providing a lifetime of learning and developing future leaders.",
-    "learnMoreLink": "http:\/\/wallitdemo2.co.za\/mmunweb\/index.html",
-    "learnMoreText": "Learn More"
+    "learnMoreLink": "https:\/\/montessori-mun.org"
   },
   "es": {
-    "title": "Bienvenido a <br \/> <strong>MMUN WeConnectU<\/strong>",
+    "title": "Bienvenido a<br \/><strong>MMUN WeConnectU!<\/strong>",
     "description": "Proporcionando una vida de aprendizaje y desarrollo de futuros líderes.",
-    "learnMoreLink": "http:\/\/wallitdemo2.co.za\/mmunweb\/index.html",
-    "learnMoreText": "Conozca más"
+    "learnMoreLink": "https:\/\/montessori-mun.org"
   }
 }
