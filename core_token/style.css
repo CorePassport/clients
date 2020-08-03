@@ -5,4 +5,8 @@
   --sub-main-color-hover: #2e7933;
   --second-color: #38993e;
   --description-text-color: #D1FFD8;
+  --background-color-1: white;
+  --background-color-2: var(--main-color);
+  --background-color-3: white;
+  --background-color-4: white;
 }
