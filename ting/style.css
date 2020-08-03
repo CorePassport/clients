@@ -1,13 +1,15 @@
 :root {
   --main-color: #f88a00;
+  --page-title-text-color: white;
   --main-color-disabled: #ffb969;
-  --sub-main-color: white;
-  --sub-main-color-hover: #2e7933;
-  --second-color: #38993e;
-  --description-text-color: #D1FFD8;
+  --sub-main-color: #c46c00;
+  --sub-main-color-hover: #c46c00;
+  --second-color: #676767;
+  --description-text-color: #7A8699;
   --background-color-1: #171F2B;
   --background-color-2: #171F2B;
   --background-color-3: #222B39;
-  --background-color-4: #1D2633;
+  --background-color-shadow-3: transparent;
+  --background-color-4: hsl(216, 24%, 16%);
   --main-container-background: #171F2B;
 }

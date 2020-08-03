@@ -1,5 +1,6 @@
 :root {
   --main-color: #FB7840;
+  --page-title-text-color: var(--main-color);
   --main-color-disabled: #d6c5b9;
   --sub-main-color: #B36041;
   --sub-main-color-hover: #c5643f;
@@ -8,6 +9,7 @@
   --background-color-1: white;
   --background-color-2: var(--main-color);
   --background-color-3: white;
+  --background-color-shadow-3: #bfbfbf;
   --background-color-4: white;
   --main-container-background: white
 }
