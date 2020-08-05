@@ -1,8 +1,15 @@
 :root {
   --main-color: #42b649;
+  --page-title-text-color: var(--main-color);
   --main-color-disabled: #a0c8a3;
   --sub-main-color: #38993E;
   --sub-main-color-hover: #2e7933;
   --second-color: #38993e;
   --description-text-color: #D1FFD8;
+  --background-color-1: white;
+  --background-color-2: var(--main-color);
+  --background-color-3: white;
+  --background-color-shadow-3: #bfbfbf;
+  --background-color-4: white;
+  --main-container-background: white
 }
