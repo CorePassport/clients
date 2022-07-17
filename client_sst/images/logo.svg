@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 130 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.119733,0,0,0.120632,0,0)">
+        <rect x="0" y="0" width="1084.87" height="973.841" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0" y="0" width="1084.87" height="973.841"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Ebene-1" serif:id="Ebene 1" transform="matrix(8.35194,0,0,8.2897,-5809.32,-5413.83)">
+                <g transform="matrix(0.119856,0,0,0.119856,717.963,710.8)">
+                    <path d="M0,10.668L325.932,196.348L235.064,248.896L-186.867,492.254L-186.867,-481.586L235.064,-238.227L330.677,-182.917L0,10.668Z" style="fill:rgb(148,155,203);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(-0.103758,0.0599976,0.0599976,0.103758,726.661,731.467)">
+                    <path d="M-613.305,161.396L-231.324,161.396L-42.116,-162.501L-425.285,-164.555L-613.305,161.396Z" style="fill:rgb(202,79,104);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.119856,0,0,0.119856,825.594,653.079)">
+                    <path d="M0,973.841L-423.117,733.245L-520.698,677.935L-190.021,486.723L-515.953,298.67L-426.281,246.127L-0,0L0,973.841Z" style="fill:rgb(238,114,125);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
